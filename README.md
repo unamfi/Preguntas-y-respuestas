@@ -25,7 +25,7 @@ Visita [la página de la organización](https://github.com/unamfi)
 - Starrear repos de UNAMFI
 
 ### ¿Cómo subo mis proyectos a Github?
-Revisa este [articulo](https://help.github.com/articles/create-a-repo/). Esto no implica que UNAMFI lo gestione. Para que tu repositorio sea visible en la páginca de UNAMFI eso debes transferir el repositorio o solicitar un fork via un issue.
+Revisa este [articulo](https://help.github.com/articles/create-a-repo/). Esto no implica que UNAMFI lo gestione. Para que tu repositorio sea visible en la pagina de UNAMFI eso debes transferir el repositorio o solicitar un fork via un issue.
 
 ### Quiero transferir un repositorio a la organización UNAMFI, ¿cómo lo hago?
 Levanta un issue en este repositorio y sigue estos [pasos](https://help.github.com/articles/transferring-a-repository)
