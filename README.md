@@ -6,10 +6,7 @@ La organización Open Source de la Facultad de Ingeniería esta recibiendo a nue
 
 ##Pasos a seguir
 
-- Añadir un comentario a este [issue](https://github.com/unamfi/Get-your-invite/issues/1) solicitando que te agreguen a la organización mencionando la carrera que estudias.
-- Esperar a ser agregado (el proceso puede tardar una semana los nuevos miembros son agregados cada fin de semana).
-- Al ser agregado recibirás un correo o una mención en Github.
-- Abre tu correo de invitación. Si no lo recibiste tambien puedes ingresar a github.com/unamfi para aceptar la invitación.
+- Sólo visita esta [página](https://unamfi.herokuapp.com/) y sigue las instrucciones para ser invitado via Github.
 
 ##FAQ
 
