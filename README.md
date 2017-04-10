@@ -1,14 +1,14 @@
 ![banner](https://raw.githubusercontent.com/unamfi/Get-your-invite/master/Banner.png)
 
-#UNAM FI
+# UNAM FI
 
 La organización Open Source de la Facultad de Ingeniería esta recibiendo a nuevos miembros.
 
-##Pasos a seguir
+## Pasos a seguir
 
 - Sólo visita esta [página](https://unamfi.herokuapp.com/) y sigue las instrucciones para ser invitado via Github.
 
-##FAQ
+## FAQ
 
 ### ¿Cómo puedo ver los proyectos existentes?
 Visita [la página de la organización](https://github.com/unamfi)
